@@ -32,16 +32,16 @@ De entre las reglas que se pueden configurar en el proyecto las más comunes son
 
 Las reglas se configuran dentro del archivo **.eslintrc**, ejemplo:
 
-    ```bash
-    {
+```bash
+{
     "rules": {
         "no-unused-vars": "warn",  // advertencia si hay variables no usadas
         "semi": ["error", "always"],  // error si no se usa punto y coma
         "quotes": ["error", "single"],  // error si no se usan comillas simples
         "indent": ["error", 2]  // error si la indentación no tiene 2 espacios
     }
-    }
-    ```
+}
+```
 
 ## ¿Cómo se usa?
 
