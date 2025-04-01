@@ -1,0 +1,17 @@
+{
+  "name": "actividadsemana6",
+  "version": "1.0.0",
+  "description": "Eslint es una herramienta quie analiza el codigo y detecta problemas dentro de codigos en JavaScript, sirve para señalar errores de sintaxis, malas practicas, o asegurar que se sgan convenciones de estilo de manera correcta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0"
+  }
+}
