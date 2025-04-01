@@ -64,3 +64,4 @@ Una vez instalado y configurado se puede usar haciendo uso de diversos comandos:
     npx eslint . --fix
     ```
 
+El ejemplo lo agregue como comentario al archivo index.js
